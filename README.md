@@ -1,4 +1,9 @@
 ## Hackpad
+FINISHED IT, DEMO HERE :D
+
+https://github.com/user-attachments/assets/ae1be2d1-e361-4396-a303-68cf132932a8
+
+
 ![image](https://github.com/user-attachments/assets/27f2ad9e-6066-4c97-b663-b521061c3688)
 This is my Hackpad! It has 8 buttons, 1 rotary encoder, 2 RGBs, and an OLED screen.
 I made it to control music and type emoticons :)
